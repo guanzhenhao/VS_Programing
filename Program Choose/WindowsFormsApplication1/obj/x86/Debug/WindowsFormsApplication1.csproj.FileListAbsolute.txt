@@ -1,0 +1,8 @@
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\GitHub仓库\VS-ProGram\Program Choose\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
